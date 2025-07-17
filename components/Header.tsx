@@ -57,7 +57,7 @@ export default function Header() {
                   className={menuItemClasses}
                 >
                   <Icon name="blog" className={iconClasses} />
-                  Code Blog
+                  Best Seller
                 </Link>
               </li>
               <li>
@@ -67,7 +67,7 @@ export default function Header() {
                   className={menuItemClasses}
                 >
                   <Icon name="tag" className={iconClasses} />
-                  All Tags
+                  Clothing & Accessories
                 </Link>
               </li>
               <li>
